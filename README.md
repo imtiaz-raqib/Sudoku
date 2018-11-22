@@ -14,7 +14,7 @@ Example
 0 8 0 9 0 2 0 6 0\
 0 0 7 0 0 0 8 0 0
 
-The program is run by compiling sudoku_solver.c and running it with followed by the .txt file
+The program is run by compiling sudoku_solver.c and running it followed by the .txt file
 
 Example
 
