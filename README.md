@@ -1,5 +1,5 @@
 # Sudoku
-This C program takes a .txt file with a sudoku puzzle and spits out the solved sudoku puzzle within the terminal.
+This C program takes a .txt file with a sudoku puzzle and spits out the solved sudoku puzzle within the terminal. If the solver deems the puzzle is not solavable, it will say "Unable to solve puzzle"
 The .txt file will be arranged in 9x9 square, with the empty boxes being represented by a 0.
 
 Example
