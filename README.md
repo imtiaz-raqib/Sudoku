@@ -19,4 +19,4 @@ The program is run by compiling sudoku_solver.c and running it with followed by 
 Example
 
 imtiazud@Yanet: ~> gcc -Wall sudoku_solver.c -o sudoku\
-imtiazud@Yanet: ~> ./sudoku 001.txt\
+imtiazud@Yanet: ~> ./sudoku 001.txt
